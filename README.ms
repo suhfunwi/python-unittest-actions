@@ -1,4 +1,4 @@
-# Example project with Django unit tests
+# Example project with Django unit tests and GitHub actions
 
 This web app has two pages, 
 

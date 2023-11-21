@@ -1,3 +1,5 @@
+![Django CI](https://github.com/claraj/python-unittest-actions/actions/workflows/django.yml/badge.svg)
+
 # Example project with Django unit tests and GitHub actions
 
 This web app should have two pages, 
